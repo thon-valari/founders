@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kineticlegacy.founders",
+      "sha256_cert_fingerprints": [
+        "34:03:10:09:1C:E9:F6:EE:0B:36:5A:A4:46:DD:49:ED:55:93:12:E3:5B:7B:2F:CF:69:2B:B8:97:E9:E9:C0:FD"
+      ]
+    }
+  }
+]
